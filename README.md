@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mescadb
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python with Oracle Database
 - 😄 Pronouns: Mesca
 
 <!---
